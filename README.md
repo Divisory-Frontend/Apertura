@@ -12,4 +12,4 @@ Apertura
 coffee-script gulp-coffee gulp-connect gulp-clean gulp-uglify gulp-sass colors gulp-include gulp-cssmin gulp-rename gulp-filelist gulp-using map-stream gulp-plumber
 
 Описание, достоинства, документация:
-<a href="" title="Документация">Документация</a>
+<a href="https://gist.github.com/Divisory-Frontend/906d713aa2eba435fd18" title="Документация">Документация</a>
